@@ -85,7 +85,7 @@ Before you proceed, ensure that you have the following installed on your machine
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:cancelei/Space-Travelers-Hub.git
+  git clone git@github.com:rudicarrilloypr/Space-Travelers-react.git
 ```
 
 ### Install
@@ -151,7 +151,7 @@ To run tests, run the following command:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome! Please consider this issue link: [Project Issues](https://github.com/cancelei/Space-Travelers-Hub/issues)
+Contributions, issues, and feature requests are welcome! Please consider this issue link: [Project Issues](https://github.com/rudicarrilloypr/Space-Travelers-react/issues)
 
 ## ⭐️ Show your support <a name="support"></a>
 
